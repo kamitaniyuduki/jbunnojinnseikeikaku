@@ -95,7 +95,7 @@ System.out.println(i + "回目のループです");
 #プロセカではミクが出ているから
 
 int MIKU = 1
-game - MIKU = gamedekirukaisuu
+(game - MIKU) = gamedekirukaisuu
 
 gamedekirukaisuu
 
